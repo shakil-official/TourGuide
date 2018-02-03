@@ -7,19 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About TourGuide
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+Tour Guide is the go to website when it comes to tourism. It focuses on elegant places available for tourist .This website allows users to search and learn about different tourism related places that are categorized into many such as historical, sea-side, resort ,forest etc. They can also provide reviews on the tourist sites. However user with no account can only search for information about places and read reviews on them. This website provides traveling guides for tourists as the name suggests.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Purpose of the project
+Every year a large number of people visit Bangladesh whether it be locals or international tourists. In this busy span of life, everyone needs a moment of relaxation every once in a while. However, due to the lack of proper information these relaxing moments can sometimes turn into terrible life experiences discouraging peoples from visiting the beautiful scenarios of Bangladesh again. With their needs in consideration, I am developing this website.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+ ## Goals of the Project
+To present proper and relevant information to tourists. To brand Bangladesh as a tourist attraction to both local and international platforms.
+
 
 ## Learning Laravel
 
